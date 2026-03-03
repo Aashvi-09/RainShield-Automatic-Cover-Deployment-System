@@ -46,3 +46,6 @@ Simulation testing using Wokwi
 Key Learning:
 
 This project strengthened my understanding of actuator control and real-time status handling in embedded systems, even in a simulation environment.
+
+Simulation Link:
+https://wokwi.com/projects/436885446805999617
